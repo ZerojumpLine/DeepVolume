@@ -1,0 +1,2 @@
+../dataForExamples/train/WMThin/Im1WM.nii
+../dataForExamples/train/WMThin/Im2WM.nii

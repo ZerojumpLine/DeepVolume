@@ -1,0 +1,2 @@
+../dataForExamples/val/sagittalThicks/Im5.mat
+../dataForExamples/val/sagittalThicks/Im6.mat

@@ -1,0 +1,2 @@
+../dataForExamples/train/axialThin/Im1.mat
+../dataForExamples/train/axialThin/Im2.mat

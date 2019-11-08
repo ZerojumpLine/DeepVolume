@@ -1,0 +1,2 @@
+../dataForExamples/train/sagittalThicks/Im1.mat
+../dataForExamples/train/sagittalThicks/Im2.mat
