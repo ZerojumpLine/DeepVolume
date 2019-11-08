@@ -122,6 +122,7 @@ tags
 *.mat
 *.nii.gz
 *.nii
+*.zip
 preprocessing/SamplingForBrainStructureAwareNetwork/train*
 preprocessing/SamplingForSpatialConnectionAwareNetwork/train*
 
