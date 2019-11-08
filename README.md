@@ -14,8 +14,6 @@ As I cannot share all the data for public use, the training cannot be reproduced
 
 - Download the example data in [Data](https://drive.google.com/file/d/1D9kZRk9p5f7KD2ZHgItzjRg5bP1wiOrp/view?usp=sharing). 
 - Unzip the data and put them in folder dataForExamples
-- Download the pretrain model in [PretrainModel](https://drive.google.com/file/d/1Eyhnj9kyXllOayW3YC64MuQo58zT9hf7/view?usp=sharing).
-- Unzip the model and put them in folder models
 - cd preprocessing & run SamplingforBrainStructureAwareNetwork.m
 - cd train & run BrainStructureAwareNetwork_train.py
 - cd preprocessing & run SamplingForSpatialConnectionAwareNetwork.m
