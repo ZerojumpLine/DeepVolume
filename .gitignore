@@ -126,8 +126,8 @@ preprocessing/SamplingForBrainStructureAwareNetwork/train*
 preprocessing/SamplingForSpatialConnectionAwareNetwork/train*
 
 # model
-models/BrainStructureAwareNetwork/
-models/SpatialConnectionAwareNetwork
+models/BrainStructureAwareNetwork/Model*
+models/SpatialConnectionAwareNetwork/Model*
 
 # data
 dataForExamples/test/*
