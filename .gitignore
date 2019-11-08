@@ -122,12 +122,15 @@ tags
 *.mat
 *.nii.gz
 *.nii
-output/
 preprocessing/SamplingForBrainStructureAwareNetwork/
 preprocessing/SamplingForSpatialConnectionAwareNetwork/
 
 # model
-models/
+models/BrainStructureAwareNetwork/
+models/SpatialConnectionAwareNetwork
 
 # data
-dataForExamples/
+dataForExamples/test/
+dataForExamples/train/
+dataForExamples/val/
+
