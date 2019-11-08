@@ -130,7 +130,7 @@ models/BrainStructureAwareNetwork/
 models/SpatialConnectionAwareNetwork
 
 # data
-dataForExamples/test/
-dataForExamples/train/
-dataForExamples/val/
+dataForExamples/test/*
+dataForExamples/train/*
+dataForExamples/val/*
 
