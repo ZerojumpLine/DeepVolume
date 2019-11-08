@@ -27,6 +27,7 @@ In the paper, we also do some preprocessing and analyses based on SPM. The codes
 If you are interested in the full access of the data in the paper, please contact Prof. Yu for details. (jhyu@fudan.edu.cn)
 
 ## Citation
+```
 @article{li2019deepvolume,
   title={DeepVolume: Brain Structure and Spatial Connection-Aware Network for Brain MRI Super-Resolution},
   author={Li, Zeju and Yu, Jinhua and Wang, Yuanyuan and Zhou, Hanzhang and Yang, Haowei and Qiao, Zhongwei},
@@ -34,3 +35,4 @@ If you are interested in the full access of the data in the paper, please contac
   year={2019},
   publisher={IEEE}
 }
+```
