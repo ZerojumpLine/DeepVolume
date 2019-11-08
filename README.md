@@ -7,7 +7,7 @@
 - Unzip the model and put them in folder models
 - cd test & run DeepVolume_test.py -s 1
 - cd test & run DeepVolume_test.py -s 2
-- Find the results as ./output/test1/pred.nii.gz
+- Find the results as output/test1/pred.nii.gz
 
 ## Train
 As I cannot share all the data for public use, the training cannot be reproduced totally. However I provide all the code for training, it might be helpful for related applications.
@@ -20,7 +20,7 @@ As I cannot share all the data for public use, the training cannot be reproduced
 - cd train & run SpatialConnectionAwareNetwork_train.py
 
 ## Others
-In the paper, we also do some preprocessing and analyses based on SPM. The codes are trivial. However, if you are interested in that or have some problems running codes in this repository, please contact me through email (zeju.li18@imperial.ac.uk).
+In the paper, we also do some preprocessing and analysis based on SPM. The codes are trivial. However, if you are interested in that or have some problems running codes in this repository, please contact me through email (zeju.li18@imperial.ac.uk).
 
 If you are interested in the full access of the data in the paper, please contact Prof. Yu for details. (jhyu@fudan.edu.cn)
 
