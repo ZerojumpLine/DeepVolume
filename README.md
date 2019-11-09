@@ -9,15 +9,21 @@ brain volume estimation and voxel-based morphometry based on thick-section MRI.
 
 The pipeline of DeepVolume is summarized as:
 
-<br /> <img src="figs/Fig1_Overview.jpg" width="600px"/>
+<br /> <center><img src="figs/Fig1_Overview.jpg" width="700px"/></center>
 
 ## Test
 - Download the example data in [Data](https://drive.google.com/file/d/1D9kZRk9p5f7KD2ZHgItzjRg5bP1wiOrp/view?usp=sharing)
 - Unzip the data and put them in folder dataForExamples
 - Download the pretrain model in [PretrainModel](https://drive.google.com/file/d/1Eyhnj9kyXllOayW3YC64MuQo58zT9hf7/view?usp=sharing)
 - Unzip the model and put them in folder models
-- cd test & run DeepVolume_test.py -s 1
-- cd test & run DeepVolume_test.py -s 2
+- cd test
+```
+python DeepVolume_test.py -s 1
+```
+- cd test
+```
+python DeepVolume_test.py -s 2
+```
 - Find the results as output/test1/pred.nii.gz
 
 ## Train
@@ -25,10 +31,22 @@ As I cannot share all the data for public use, the training cannot be reproduced
 
 - Download the example data in [Data](https://drive.google.com/file/d/1D9kZRk9p5f7KD2ZHgItzjRg5bP1wiOrp/view?usp=sharing)
 - Unzip the data and put them in folder dataForExamples
-- cd preprocessing & run SamplingforBrainStructureAwareNetwork.m
-- cd train & run BrainStructureAwareNetwork_train.py -val -train
-- cd preprocessing & run SamplingForSpatialConnectionAwareNetwork.m
-- cd train & run SpatialConnectionAwareNetwork_train.py
+- cd preprocessing
+```
+matlab SamplingforBrainStructureAwareNetwork.m
+```
+- cd train
+```
+python BrainStructureAwareNetwork_train.py -val -train
+```
+- cd preprocessing
+```
+matlab SamplingForSpatialConnectionAwareNetwork.m
+```
+- cd train
+```
+python SpatialConnectionAwareNetwork_train.py
+```
 
 ## Others
 In the paper, we also do some preprocessing and analysis based on SPM. The codes are trivial. However, if you are interested in that or have some problems running codes in this repository, please contact me through email (zeju.li18@imperial.ac.uk).
