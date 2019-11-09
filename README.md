@@ -9,7 +9,7 @@ brain volume estimation and voxel-based morphometry based on thick-section MRI.
 
 The pipeline of DeepVolume is summarized as:
 
-<br/> <div align=center><img src="figs/Fig1_Overview.jpg" width="700px"/>
+<br/> <div align=center><img src="figs/Fig1_Overview.jpg" width="700px"/></div>
 
 ## Test
 - Download the example data in [Data](https://drive.google.com/file/d/1D9kZRk9p5f7KD2ZHgItzjRg5bP1wiOrp/view?usp=sharing)
