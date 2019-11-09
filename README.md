@@ -4,12 +4,12 @@
 
 DeepVolume is a deep learning based method to reconstruct thin-section brain MR images by including
 much domain knowledge such as brain structure and additional sagittal spatial connection constrains. In our study,
-we demonstrate DeepVolume can not only provide state-of-the-art reconstruction results but also benefit the
+we demonstrate DeepVolume can not only provide state-of-the-art thin-section MRI reconstruction results but also benefit the
 brain volume estimation and voxel-based morphometry based on thick-section MRI.
 
 The pipeline of DeepVolume is summarized as:
 
-<br /> <center><img src="figs/Fig1_Overview.jpg" width="700px"/></center>
+<br/> <div align=center><img src="figs/Fig1_Overview.jpg" width="700px"/>
 
 ## Test
 - Download the example data in [Data](https://drive.google.com/file/d/1D9kZRk9p5f7KD2ZHgItzjRg5bP1wiOrp/view?usp=sharing)
