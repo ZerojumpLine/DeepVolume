@@ -49,7 +49,7 @@ python SpatialConnectionAwareNetwork_train.py
 ```
 
 ## Others
-In the paper, we also do some preprocessing and analysis based on SPM. The codes are trivial. However, if you are interested in that or have some problems running codes in this repository, please contact me through email (zeju.li18@imperial.ac.uk).
+In the paper, we also do some preprocessing and analysis based on SPM. As it can be imagined, the code is trivial and highly taylored for this study and data. However, if you are interested in that or have any problems running the code in this repository, please contact me through email (zeju.li18@imperial.ac.uk).
 
 If you are interested in the full access of the data in the paper, please contact Prof. Yu for details. (jhyu@fudan.edu.cn)
 
