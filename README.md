@@ -1,5 +1,11 @@
 # DeepVolume
 
+## Requirements
+
+```
+tensorflow-gpu==1.8.0
+```
+
 ## Introduction
 
 DeepVolume is a deep learning based method to reconstruct thin-section brain MR images by including
