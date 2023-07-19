@@ -60,7 +60,7 @@ In the paper, we also do some preprocessing and analysis based on SPM. As it can
 If you are interested in the full access of the data in the paper, please contact Prof. Yu for details. (jhyu@fudan.edu.cn)
 
 ## Citation
-If you find this useful in your research or publication, please consider to cite our work:
+If you find this useful in your research or publication, please consider citing our work:
 ```
 @article{li2019deepvolume,
   title={DeepVolume: Brain Structure and Spatial Connection-Aware Network for Brain MRI Super-Resolution},
